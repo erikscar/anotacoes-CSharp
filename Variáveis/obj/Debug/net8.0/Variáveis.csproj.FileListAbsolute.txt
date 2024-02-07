@@ -12,3 +12,4 @@ C:\Users\eriks\Desktop\C#\Variáveis\obj\Debug\net8.0\refint\Variáveis.dll
 C:\Users\eriks\Desktop\C#\Variáveis\obj\Debug\net8.0\Variáveis.pdb
 C:\Users\eriks\Desktop\C#\Variáveis\obj\Debug\net8.0\Variáveis.genruntimeconfig.cache
 C:\Users\eriks\Desktop\C#\Variáveis\obj\Debug\net8.0\ref\Variáveis.dll
+C:\Users\eriks\Desktop\C#\Variáveis\obj\Debug\net8.0\Variáveis.sourcelink.json
