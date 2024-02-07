@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\C#\Conversões\bin\Debug\net8.0\Conversões.exe
+C:\Users\eriks\Desktop\C#\Conversões\bin\Debug\net8.0\Conversões.deps.json
+C:\Users\eriks\Desktop\C#\Conversões\bin\Debug\net8.0\Conversões.runtimeconfig.json
+C:\Users\eriks\Desktop\C#\Conversões\bin\Debug\net8.0\Conversões.dll
+C:\Users\eriks\Desktop\C#\Conversões\bin\Debug\net8.0\Conversões.pdb
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\Conversões.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\Conversões.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\Conversões.AssemblyInfo.cs
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\Conversões.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\Conversões.sourcelink.json
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\Conversões.dll
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\refint\Conversões.dll
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\Conversões.pdb
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\Conversões.genruntimeconfig.cache
+C:\Users\eriks\Desktop\C#\Conversões\obj\Debug\net8.0\ref\Conversões.dll
