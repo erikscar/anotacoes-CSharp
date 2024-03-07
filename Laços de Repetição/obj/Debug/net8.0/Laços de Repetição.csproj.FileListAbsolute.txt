@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\Laços de Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\Laços de Repetição.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\Laços de Repetição.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\Laços de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\Laços de Repetição.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\bin\Debug\net8.0\Laços de Repetição.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\bin\Debug\net8.0\Laços de Repetição.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\bin\Debug\net8.0\Laços de Repetição.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\bin\Debug\net8.0\Laços de Repetição.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\bin\Debug\net8.0\Laços de Repetição.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\Laços de Repetição.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\refint\Laços de Repetição.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\Laços de Repetição.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\Laços de Repetição.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Laços de Repetição\obj\Debug\net8.0\ref\Laços de Repetição.dll
