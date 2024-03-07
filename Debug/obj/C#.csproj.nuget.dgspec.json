@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eriks\\Desktop\\C#\\Debug\\C#.csproj": {}
+    "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Debug\\C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eriks\\Desktop\\C#\\Debug\\C#.csproj": {
+    "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Debug\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eriks\\Desktop\\C#\\Debug\\C#.csproj",
+        "projectUniqueName": "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Debug\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "C:\\Users\\eriks\\Desktop\\C#\\Debug\\C#.csproj",
+        "projectPath": "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Debug\\C#.csproj",
         "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eriks\\Desktop\\C#\\Debug\\obj\\",
+        "outputPath": "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Debug\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eriks\\AppData\\Roaming\\NuGet\\NuGet.Config"

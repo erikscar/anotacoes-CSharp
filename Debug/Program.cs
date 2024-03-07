@@ -12,6 +12,8 @@ namespace CSharp
         {
             var texto = "Testando";
             Console.WriteLine(texto);
+            Console.WriteLine("BATATA");
+            Console.WriteLine("Ameixa");
         }
     }
 }
