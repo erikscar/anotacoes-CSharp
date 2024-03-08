@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\bin\Debug\net8.0\Enum.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\bin\Debug\net8.0\Enum.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\bin\Debug\net8.0\Enum.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\bin\Debug\net8.0\Enum.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\Enum.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\refint\Enum.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\Enum.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Enum\obj\Debug\net8.0\ref\Enum.dll
