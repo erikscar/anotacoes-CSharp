@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\bin\Debug\net8.0\Métodos e Funções.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\bin\Debug\net8.0\Métodos e Funções.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\bin\Debug\net8.0\Métodos e Funções.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\bin\Debug\net8.0\Métodos e Funções.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\bin\Debug\net8.0\Métodos e Funções.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\Métodos e Funções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\Métodos e Funções.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\Métodos e Funções.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\Métodos e Funções.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\Métodos e Funções.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\Métodos e Funções.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\refint\Métodos e Funções.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\Métodos e Funções.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\Métodos e Funções.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Métodos e Funções\obj\Debug\net8.0\ref\Métodos e Funções.dll
