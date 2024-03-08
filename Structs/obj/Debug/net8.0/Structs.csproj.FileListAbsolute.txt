@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\bin\Debug\net8.0\Structs.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\bin\Debug\net8.0\Structs.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\bin\Debug\net8.0\Structs.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\bin\Debug\net8.0\Structs.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\bin\Debug\net8.0\Structs.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\Structs.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\Structs.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\Structs.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\Structs.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\refint\Structs.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\Structs.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\Structs.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Structs\obj\Debug\net8.0\ref\Structs.dll
