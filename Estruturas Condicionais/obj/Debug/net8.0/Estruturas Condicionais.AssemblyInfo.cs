@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Estruturas Condicionais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f27f54de45eb72f7c2f79e009ce5a9d93ffed359")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30b5c032664098e46932ae4857fb8e5729011ab8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Estruturas Condicionais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Estruturas Condicionais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

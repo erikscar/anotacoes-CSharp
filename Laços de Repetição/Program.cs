@@ -10,13 +10,26 @@ namespace CSHARP
             // for (int i = 0; i < 11; i++) Console.WriteLine(i);
             // for (int i = 5; i >= 0; i--) Console.WriteLine(i);
 
-            int x = 5;
             //While, Exige uma condição para ser iniciado
-            while (x != 0)
+            //int x = 0;
+
+            // while (x < 20)
+            // {
+            //     Console.WriteLine(x);
+            //     x++;
+            // }
+
+            //Do-While, Executa o bloco de código, depois testa a condição para se repetir
+            int x = 0;
+
+            do
             {
-                Console.WriteLine(x);
-                x--;
+                Console.WriteLine($"UEPI {x}");
+                x++;
             }
+            while (x < 10);
+
+
         }
     }
 }

@@ -22,10 +22,14 @@ namespace CSHARP
 
             //SWITCH, Quando há muitas decisões
 
-            int y = 3;
+            int y = 1;
             switch (y)
             {
-                case 1: Console.WriteLine("1"); break;
+                case 1:
+                    {
+                        Console.WriteLine("1");
+                        break;
+                    }
                 case 2: Console.WriteLine("2"); break;
                 case 3: Console.WriteLine("3"); break;
                 default: Console.WriteLine("Nenhum dos 3 Primeiros!"); break;
