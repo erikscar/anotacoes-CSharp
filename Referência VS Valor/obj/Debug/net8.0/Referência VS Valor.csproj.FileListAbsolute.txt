@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\bin\Debug\net8.0\Referência VS Valor.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\bin\Debug\net8.0\Referência VS Valor.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\bin\Debug\net8.0\Referência VS Valor.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\bin\Debug\net8.0\Referência VS Valor.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\bin\Debug\net8.0\Referência VS Valor.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\Referência VS Valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\Referência VS Valor.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\Referência VS Valor.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\Referência VS Valor.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\Referência VS Valor.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\Referência VS Valor.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\refint\Referência VS Valor.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\Referência VS Valor.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\Referência VS Valor.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Referência VS Valor\obj\Debug\net8.0\ref\Referência VS Valor.dll
