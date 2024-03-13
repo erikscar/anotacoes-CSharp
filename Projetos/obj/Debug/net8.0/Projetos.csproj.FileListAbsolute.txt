@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\Projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\Projetos.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\Projetos.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\Projetos.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\Projetos.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\bin\Debug\net8.0\Projetos.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\bin\Debug\net8.0\Projetos.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\bin\Debug\net8.0\Projetos.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\bin\Debug\net8.0\Projetos.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\bin\Debug\net8.0\Projetos.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\Projetos.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\refint\Projetos.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\Projetos.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\Projetos.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\obj\Debug\net8.0\ref\Projetos.dll
