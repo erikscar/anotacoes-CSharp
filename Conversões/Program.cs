@@ -10,7 +10,7 @@ namespace CSharp
             float valor1 = 32.2f; //Número Real
             int valor2 = 25;      //Número Inteiro
 
-            //Os números Inteiros podem fazem parte também dos números Reais, mas nunca ao contrário
+            //Os números Inteiros podem e fazem parte também dos números Reais, mas nunca ao contrário
             //Um número inteiro não tem pontuação logo não pode receber um número real
             valor1 = valor2; //Conversão Implícita
 
@@ -33,9 +33,6 @@ namespace CSharp
             //Tenta converter se não aparece erro EM TEMPO DE EXECUÇÃO
 
             int inteiro2 = Convert.ToInt32("100");
-
-
-
 
             //EXEMPLOS 
 

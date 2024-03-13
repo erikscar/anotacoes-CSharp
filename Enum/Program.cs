@@ -7,8 +7,6 @@
             //Enums, Substituem o uso de inteiros
             //Utilizados para Lista curtas e Dados Fixos
             //Criado fora da classe igual Struct!
-            //Substituem o uso de inteiros  
-
 
             var mouse = new Product(1, "Mouse Gamer", 299.99, EProductType.Product);
             var maintenance = new Product(2, "Manutenção Elétrica", 500, EProductType.Service);
