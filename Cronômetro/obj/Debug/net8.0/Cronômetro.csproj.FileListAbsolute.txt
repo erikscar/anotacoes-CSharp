@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\bin\Debug\net8.0\Cronômetro.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\bin\Debug\net8.0\Cronômetro.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\bin\Debug\net8.0\Cronômetro.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\bin\Debug\net8.0\Cronômetro.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\bin\Debug\net8.0\Cronômetro.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\Cronômetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\Cronômetro.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\Cronômetro.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\Cronômetro.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\Cronômetro.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\Cronômetro.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\refint\Cronômetro.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\Cronômetro.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\Cronômetro.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Cronômetro\obj\Debug\net8.0\ref\Cronômetro.dll
