@@ -1,0 +1,15 @@
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.exe
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.dll
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.sourcelink.json
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.dll
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+C:\Users\eriks\OneDrive\Desktop\anotacoes-CSharp\Projetos\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
