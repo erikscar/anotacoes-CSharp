@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Interpolação_de_Strings/1.0.0": {
+        "runtime": {
+          "Interpolação_de_Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interpolação_de_Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

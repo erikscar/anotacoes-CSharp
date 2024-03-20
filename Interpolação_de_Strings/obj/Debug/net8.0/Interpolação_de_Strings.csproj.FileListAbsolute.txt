@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\bin\Debug\net8.0\Interpolação_de_Strings.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\bin\Debug\net8.0\Interpolação_de_Strings.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\bin\Debug\net8.0\Interpolação_de_Strings.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\bin\Debug\net8.0\Interpolação_de_Strings.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\bin\Debug\net8.0\Interpolação_de_Strings.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\Interpolação_de_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\Interpolação_de_Strings.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\Interpolação_de_Strings.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\Interpolação_de_Strings.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\Interpolação_de_Strings.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\Interpolação_de_Strings.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\refint\Interpolação_de_Strings.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\Interpolação_de_Strings.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\Interpolação_de_Strings.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Interpolação_de_Strings\obj\Debug\net8.0\ref\Interpolação_de_Strings.dll
