@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eriks\\OneDrive\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\TextEditor.csproj": {}
+    "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eriks\\OneDrive\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\TextEditor.csproj": {
+    "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eriks\\OneDrive\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\TextEditor.csproj",
+        "projectUniqueName": "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "C:\\Users\\eriks\\OneDrive\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\TextEditor.csproj",
+        "projectPath": "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\eriks\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eriks\\OneDrive\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\obj\\",
+        "outputPath": "C:\\Users\\eriks\\Desktop\\anotacoes-CSharp\\Projetos\\TextEditor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\eriks\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\eriks\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
