@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\bin\Debug\net8.0\Começa com_Termina com.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\bin\Debug\net8.0\Começa com_Termina com.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\bin\Debug\net8.0\Começa com_Termina com.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\bin\Debug\net8.0\Começa com_Termina com.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\bin\Debug\net8.0\Começa com_Termina com.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\Começa com_Termina com.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\Começa com_Termina com.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\Começa com_Termina com.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\Começa com_Termina com.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\Começa com_Termina com.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\Começa com_Termina com.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\refint\Começa com_Termina com.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\Começa com_Termina com.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\Começa com_Termina com.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Começa com_Termina com\obj\Debug\net8.0\ref\Começa com_Termina com.dll

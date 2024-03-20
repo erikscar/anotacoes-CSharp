@@ -19,11 +19,6 @@
             //Retorna True
             Console.WriteLine(text1.Contains("Teste", StringComparison.OrdinalIgnoreCase));
             //Ignorar o Case Sensitive, maiusculo ou minusculo
-
-
-
-
-
         }
     }
 }

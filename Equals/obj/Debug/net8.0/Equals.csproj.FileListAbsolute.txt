@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\bin\Debug\net8.0\Equals.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\bin\Debug\net8.0\Equals.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\bin\Debug\net8.0\Equals.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\bin\Debug\net8.0\Equals.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\bin\Debug\net8.0\Equals.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\Equals.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\Equals.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\Equals.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\Equals.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\Equals.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\refint\Equals.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\Equals.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\Equals.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Equals\obj\Debug\net8.0\ref\Equals.dll
