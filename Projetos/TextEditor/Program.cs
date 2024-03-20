@@ -99,8 +99,26 @@ namespace CSHARP
       {
         using (var file = new StreamReader(path))
         {
-          Console.WriteLine(file.ReadToEnd());
+          Console.Clear();
+          Console.WriteLine("-----------------------------");
+          Console.WriteLine($"Conteúdo do Arquivo:\n{file.ReadToEnd()}");
         }
+        using (var file = new StreamWriter(path))
+        {
+          Console.WriteLine("Digite o Texto a ser Modificado (Pressione ESC para Confirmar)\n");
+          string text = "";
+          do
+          {
+            text += Console.ReadLine();
+            text += Environment.NewLine;
+          } while (Console.ReadKey().Key != ConsoleKey.Escape);
+          file.Write(text);
+          Console.WriteLine("Arquivo Atualizado com Sucesso!");
+        }
+      }
+      else
+      {
+        Console.WriteLine("\nO Caminho Digitado não Existe!\nRetornando ao Menu...");
       }
     }
     static void Delete()
