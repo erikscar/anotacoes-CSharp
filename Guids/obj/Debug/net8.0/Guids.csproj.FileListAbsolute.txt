@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\bin\Debug\net8.0\Guids.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\bin\Debug\net8.0\Guids.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\bin\Debug\net8.0\Guids.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\bin\Debug\net8.0\Guids.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\bin\Debug\net8.0\Guids.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\Guids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\Guids.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\Guids.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\Guids.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\Guids.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\Guids.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\refint\Guids.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\Guids.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\Guids.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Guids\obj\Debug\net8.0\ref\Guids.dll
