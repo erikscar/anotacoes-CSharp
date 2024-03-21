@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Índice_de_Strings/1.0.0": {
+        "runtime": {
+          "Índice_de_Strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Índice_de_Strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
