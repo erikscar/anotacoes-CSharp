@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\bin\Debug\net8.0\Manipulando_Strings.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\bin\Debug\net8.0\Manipulando_Strings.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\bin\Debug\net8.0\Manipulando_Strings.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\bin\Debug\net8.0\Manipulando_Strings.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\bin\Debug\net8.0\Manipulando_Strings.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\Manipulando_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\Manipulando_Strings.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\Manipulando_Strings.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\Manipulando_Strings.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\Manipulando_Strings.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\Manipulando_Strings.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\refint\Manipulando_Strings.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\Manipulando_Strings.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\Manipulando_Strings.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Manipulando_Strings\obj\Debug\net8.0\ref\Manipulando_Strings.dll

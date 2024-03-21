@@ -19,6 +19,8 @@
             Console.WriteLine(text.Remove(5, 5));
 
             Console.WriteLine(text.Length);
+
+            
         }
     }
 }
