@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\bin\Debug\net8.0\HTMLEditor.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\refint\HTMLEditor.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\HTMLEditor.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Projetos\HTMLEditor\obj\Debug\net8.0\ref\HTMLEditor.dll
