@@ -26,7 +26,7 @@ namespace HtmlEditor
         public static void DrawScreen()
         {
             ForLines("+", "-");
-            for (int lines = 0; lines <= 14; lines++)
+            for (int lines = 0; lines <= 12; lines++)
             {
                 ForLines("|", " ");
             }
@@ -53,7 +53,7 @@ namespace HtmlEditor
         {
             switch (option)
             {
-                case 1: Console.WriteLine("Editor"); break;
+                case 1: Editor.Show(); break;
                 case 2: Console.WriteLine("View"); break;
                 case 0:
                     {
