@@ -1,4 +1,6 @@
-﻿namespace CSHARP {
+﻿using System.Globalization;
+
+namespace CSHARP {
   class Datas {
     static void Main(string[] args) {
       //DateTime é um Struct, sempre inicializados com um valor
@@ -9,6 +11,7 @@
       var date = new DateTime();
       Console.WriteLine($"Valor Padrão: {date}");
       Console.WriteLine("---------------------------------");
+
       //Data Atual
       var date1 = DateTime.Now;
       Console.WriteLine($"Valor Atual: {date1}");
@@ -58,6 +61,7 @@
       Console.WriteLine(format9);
       Console.WriteLine("---------------------------------");
 
+
       Console.WriteLine("Adicionando Valores a Datas");
       //Em vez de Fazer incrementos como 
       //var newDate = date3.Day + 1;  O Dia pode ser 31 e não temos o dia 32!
@@ -68,6 +72,73 @@
       Console.WriteLine($"Incrementando Anos: {date3.AddYears(5)}");
       Console.WriteLine($"Incrementando Meses: {date3.AddMonths(16)}");
       Console.WriteLine($"Incrementando Dias: {date3.AddDays(43)}");
-    }
+
+
+      //Comparações de Datas
+      //As Datas podem ser comparadas porém deve tomar cuidado
+
+      var date10 = DateTime.Now;
+      Console.WriteLine("Comparação de Datas");
+
+      if (date10 == DateTime.Now) {//Isso NUNCA vai ser igual 
+      //A Primeira Data sempre será criada um pouco antes da condição do IF
+      //Mesmo que por segundos, ou seja nunca será igual
+        Console.WriteLine("É Igual");
+      } else {
+        Console.WriteLine("É Diferente");
+      }
+
+      if(date10.Date == DateTime.Now.Date) { //Comparando apenas as Datas será igual
+           Console.WriteLine("É Igual");
+      } else {
+        Console.WriteLine("É Diferente");
+      } 
+      Console.WriteLine("---------------------------------");
+
+
+      //Culture Info, existem várias
+      var en= new CultureInfo("en-US");
+      var pt = new CultureInfo("pt-PT");
+      var cn = new CultureInfo("zh-CHS");
+      var atual =  CultureInfo.CurrentCulture; //Idioma do PC Atual
+
+      //Em vez de usar o Format, usar o toString direto para formatar datas em uma linguagem
+      Console.WriteLine("Diferentes Idiomas para Datas");
+      Console.WriteLine(DateTime.Now.ToString("D", en));
+      Console.WriteLine(DateTime.Now.ToString("D", pt));
+      Console.WriteLine(DateTime.Now.ToString("D", cn));
+      Console.WriteLine(atual);
+      Console.WriteLine("---------------------------------");
+
+
+     //TimeZones, mais recomendado utilizar quando 
+      
+      var dateTime = DateTime.UtcNow; //Horário GLOBAL, RECOMENDADO SEMPRE USAR DEPOIS FORMATAR
+      Console.WriteLine("TIMEZONES ");
+      Console.WriteLine(dateTime);
+      Console.WriteLine(dateTime.ToLocalTime()); //Salvar na Hora Local
+
+      //Buscar um TIMEZONE de um lugar específico
+      var timezoneAustralia = TimeZoneInfo.FindSystemTimeZoneById("Pacific/Auckland");
+      Console.WriteLine(timezoneAustralia);
+
+      var horaAustralia = TimeZoneInfo.ConvertTimeFromUtc(dateTime, timezoneAustralia);
+      Console.WriteLine(horaAustralia);
+
+      //Obter todos os Timezones
+
+      // var timezones = TimeZoneInfo.GetSystemTimeZones();
+      // foreach (var timezone in timezones) {
+      //   Console.WriteLine(timezone.Id);
+      //   Console.WriteLine(timezone);
+      //   Console.WriteLine(TimeZoneInfo.ConvertTimeFromUtc(dateTime, timezone));
+      //   Console.WriteLine("-------------");
+      // }
+
+      //TIMESPAN PARA SABER FRAÇÕES DE HORA
+      var timespan = new TimeSpan();
+      var timespanNanoSeconds = new TimeSpan(1);
+      Console.WriteLine(timespanNanoSeconds);
+    } 
   }
 }
