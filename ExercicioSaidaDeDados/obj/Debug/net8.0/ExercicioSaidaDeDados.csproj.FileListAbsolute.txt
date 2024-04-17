@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\refint\ExercicioSaidaDeDados.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\ExercicioSaidaDeDados\obj\Debug\net8.0\ref\ExercicioSaidaDeDados.dll
