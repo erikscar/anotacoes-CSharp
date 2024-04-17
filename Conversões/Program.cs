@@ -20,13 +20,12 @@ namespace CSharp
             //Passar o tipo a ser convertido antes entre parênteses!
             int inteiro = 100;
             uint inteiroSemSinal = (uint)inteiro; //Conversão Explícita
-
+            string teste = (string)inteiro
 
             //PARSE - Todo tipo primitivo possui, convert STRING/CHAR para um tipo qualquer
             //Ele sempre espera uma cadeia de carecteres se não ocorre um erro em TEMPO DE EXECUÇÃO
 
             int inteiro1 = int.Parse("100");
-
 
             //CONVERT - Parecido com o PARSE porém 
             //aceita converter outros tipos de valores não somente STRINGS, É UMA CLASSE

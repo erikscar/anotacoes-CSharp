@@ -97,7 +97,7 @@ namespace CSHARP {
 
 
       //Culture Info, existem várias
-      var en= new CultureInfo("en-US");
+      var en = new CultureInfo("en-US");
       var pt = new CultureInfo("pt-PT");
       var cn = new CultureInfo("zh-CHS");
       var atual =  CultureInfo.CurrentCulture; //Idioma do PC Atual
@@ -110,8 +110,7 @@ namespace CSHARP {
       Console.WriteLine(atual);
       Console.WriteLine("---------------------------------");
 
-
-     //TimeZones, mais recomendado utilizar quando 
+     //TimeZones, mais recomendado utilizar
       
       var dateTime = DateTime.UtcNow; //Horário GLOBAL, RECOMENDADO SEMPRE USAR DEPOIS FORMATAR
       Console.WriteLine("TIMEZONES ");
@@ -127,13 +126,13 @@ namespace CSHARP {
 
       //Obter todos os Timezones
 
-      // var timezones = TimeZoneInfo.GetSystemTimeZones();
-      // foreach (var timezone in timezones) {
-      //   Console.WriteLine(timezone.Id);
-      //   Console.WriteLine(timezone);
-      //   Console.WriteLine(TimeZoneInfo.ConvertTimeFromUtc(dateTime, timezone));
-      //   Console.WriteLine("-------------");
-      // }
+      var timezones = TimeZoneInfo.GetSystemTimeZones();
+      foreach (var timezone in timezones) {
+        Console.WriteLine(timezone.Id);
+        Console.WriteLine(timezone);
+        Console.WriteLine(TimeZoneInfo.ConvertTimeFromUtc(dateTime, timezone));
+        Console.WriteLine("-------------");
+      }
 
       //TIMESPAN PARA SABER FRAÇÕES DE HORA
       var timespan = new TimeSpan();

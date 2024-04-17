@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\exericios simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\exericios simples.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\exericios simples.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\exericios simples.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\exericios simples.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\bin\Debug\net8.0\exericios simples.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\bin\Debug\net8.0\exericios simples.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\bin\Debug\net8.0\exericios simples.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\bin\Debug\net8.0\exericios simples.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\bin\Debug\net8.0\exericios simples.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\exericios simples.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\refint\exericios simples.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\exericios simples.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\exericios simples.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\exericios simples\obj\Debug\net8.0\ref\exericios simples.dll

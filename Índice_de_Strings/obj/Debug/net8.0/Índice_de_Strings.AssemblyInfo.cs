@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Índice_de_Strings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54a9509ed88d5e5d036ba8ad6cc486e7dbe9650c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9770955f8c0f15847fb12a771f97deafe231c91b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Índice_de_Strings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Índice_de_Strings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

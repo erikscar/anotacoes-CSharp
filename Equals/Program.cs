@@ -12,7 +12,7 @@
             Console.WriteLine(text.Equals("isso é um texto"));
             Console.WriteLine(text.Equals("Isso é um texto", StringComparison.OrdinalIgnoreCase));
             Console.WriteLine(num.Equals(33));
-
+            
         }
     }
 }
