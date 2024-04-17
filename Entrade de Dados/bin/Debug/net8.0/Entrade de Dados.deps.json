@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Entrade de Dados/1.0.0": {
+        "runtime": {
+          "Entrade de Dados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entrade de Dados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

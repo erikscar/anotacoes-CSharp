@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\bin\Debug\net8.0\Entrade de Dados.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\bin\Debug\net8.0\Entrade de Dados.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\bin\Debug\net8.0\Entrade de Dados.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\bin\Debug\net8.0\Entrade de Dados.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\bin\Debug\net8.0\Entrade de Dados.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\Entrade de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\Entrade de Dados.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\Entrade de Dados.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\Entrade de Dados.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\Entrade de Dados.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\Entrade de Dados.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\refint\Entrade de Dados.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\Entrade de Dados.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\Entrade de Dados.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\Entrade de Dados\obj\Debug\net8.0\ref\Entrade de Dados.dll
