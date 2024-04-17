@@ -1,0 +1,15 @@
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.exe
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.deps.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.runtimeconfig.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfo.cs
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.sourcelink.json
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\refint\OperadoresAtribuicao.dll
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.pdb
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.genruntimeconfig.cache
+C:\Users\eriks\Desktop\anotacoes-CSharp\OperadoresAtribuicao\obj\Debug\net8.0\ref\OperadoresAtribuicao.dll
